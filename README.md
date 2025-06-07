@@ -153,4 +153,5 @@ for knowing RFID CARD UID use this : https://github.com/Madannayak003/RFID_UID-A
 
 MIT License © 2025 Madan R
 
+## 🌐 Website
 [![Netlify Status](https://img.shields.io/badge/Live%20Site-Netlify-brightgreen?style=for-the-badge&logo=netlify)](https://stellular-genie-403aa8.netlify.app)
